@@ -66,7 +66,7 @@ export function Navigation() {
               window.scrollTo({ top: 0, behavior: "smooth" });
             }}
           >
-            SS<span className="text-primary">.</span>
+            SS<span className="text-primary"></span>
           </a>
 
           {/* Desktop Navigation */}
