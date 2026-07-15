@@ -97,7 +97,7 @@ export function Hero() {
             <div className="absolute inset-0 flex items-center justify-center rotate-3">
               <div className="w-82 h-90 md:w-90 md:h-106 rounded-2xl overflow-hidden shadow-2xl border border-primary/20 hover:shadow-primary/30 transition-all duration-300">
                 <img
-                  src="/profile.jpg"
+                  src="/profile.webp"
                   alt="Sriram S"
                   className="w-full h-full object-cover"
                 />

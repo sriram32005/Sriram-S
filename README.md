@@ -1,36 +1,65 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 👋 Hi, I'm Sriram S  
+### AI/ML Enthusiast | Deep Learning Developer | Tech Explorer  
 
-## Getting Started
+---
 
-First, run the development server:
+## 🚀 About Me  
+I'm a **B.Tech Computer Science (AI & ML)** student at **VIT Chennai** with a strong passion for building intelligent systems. My expertise lies in **Python, Machine Learning, Deep Learning, and Full-Stack Development** using React.js. I love solving real-world problems with data-driven solutions and am always eager to learn and contribute to innovative AI projects.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+---
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 🛠️ Tech Stack  
+### **Languages**  
+`Python` `C++` `C` `Java` `JavaScript`  
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+### **AI/ML & Data Science**  
+`Deep Learning` `Neural Networks` `Scikit-learn` `TensorFlow` `NVIDIA Certified`  
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+### **Web Technologies**  
+`React.js` `Next.js` `HTML` `CSS` `JavaScript`  
 
-## Learn More
+### **Databases & Tools**  
+`MySQL` `Git` `GitHub` `Linux` `VS Code` `IBM WatsonX`  
 
-To learn more about Next.js, take a look at the following resources:
+### **Concepts**  
+`Data Structures` `Algorithms` `Problem Solving` `OOP` `DBMS` `OS` `Computer Networks`  
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+---
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## 🧠 Featured Projects  
 
-## Deploy on Vercel
+### 🎤 Speech Emotion Recognition  
+- Developed a **CNN-based Deep Learning model** to classify emotions from audio datasets (RAVDESS & EmoDB).  
+- Achieved **~76% accuracy** in emotion classification.  
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+### 🛡️ ML-Based Network Intrusion Detection  
+- Built an **ensemble classification system** using Random Forest to detect network threats.  
+- Improved efficiency by **~93%** through optimized feature selection.  
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+### 🩺 Medical Chatbot for Symptom Analysis  
+- Created an AI-powered chatbot using **IBM WatsonX Assistant & WatsonX AI** to recommend medical departments based on user symptoms.  
+
+---
+
+## 📜 Certifications  
+- **Fundamentals of Deep Learning** – *NVIDIA*  
+- **React.js and Next.js** – *Google Developer Groups*  
+- **GenAI with WatsonX** – *IBM*  
+
+---
+
+## 🏆 Achievements & Activities  
+- **Associate Director, International Service** – *Rotaract Club, VIT Chennai*  
+- **Member** – *Google Developer Groups (GDG), VIT Chennai*  
+- **Chess Enthusiast** – School-level tournament wins  
+
+---
+
+## 📫 Let's Connect  
+- 📧 Email: [sriram32005@gmail.com](mailto:sriram32005@gmail.com)  
+- 💼 LinkedIn: [linkedin.com/in/sriram32005](https://linkedin.com/in/sriram32005)  
+- 📱 Phone: +91 8667405879  
+
+---
+
+> *"Turning data into decisions, and ideas into impact."*  
